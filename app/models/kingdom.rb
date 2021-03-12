@@ -1,3 +1,3 @@
 class Kingdom < ApplicationRecord
-    belongs_to :taxon
+  belongs_to :taxon
 end
